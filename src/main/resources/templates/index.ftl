@@ -89,7 +89,6 @@
                 seriesData.push({
                     name: item.name,
                     type: 'line',
-                    stack: '总量',
                     data: tmp
                 })
             })
